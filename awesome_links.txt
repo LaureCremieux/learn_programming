@@ -1,0 +1,55 @@
+USEFUL LIBS AND LINKS TO LEARN JS PROGRAMMING
+
+
+----- Base of everything -----
+
+• Startup Engineering Coursera classes (needs about a month):
+https://class.coursera.org/startup-001/lecture
+
+
+----- Below are good starters for JS (frontend+server) -----
+
+• MDN re-intro to modern JS:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+
+• MDN on Object Oriented Programming in JS:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript
+
+• Getting more confident in JS:
+Intermediate JS course (pdf in repo)
+
+• Understand JS objects with graphs:
+http://howtonode.org/object-graphs  
+http://howtonode.org/object-graphs-2
+http://howtonode.org/object-graphs-3
+
+
+----- For good understanding of concepts -----
+
+• Prototypal inheritance:
+http://stackoverflow.com/questions/2800964/benefits-of-prototypal-inheritance-over-classical/16872315#16872315
+
+• Blog of that same guy. Very exhaustive. A goto blog in case of troubles while creating objects:
+http://aaditmshah.github.io/why-prototypal-inheritance-matters/
+
+• Some philosophy:
+http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html
+
+
+----- And here for Node (server side JS) -----
+
+• http://www.nodebeginner.org
+• http://javascriptissexy.com/learn-node-js-completely-and-with-confidence/
+
+
+----- Some useful libs -----
+
+• moment.js (http://momentjs.com) for playing with dates and times
+• underscore.js (http://underscorejs.org) provides a whole mess of useful functional programming helpers
+• lodash.js (http://lodash.com) should be preferred to underscore.js, searchable doc at http://devdocs.io/lodash/
+• async.js (https://github.com/caolan/async) for async version of common utils and for async flow control of programs
+
+
+----- Amazing links -----
+
+http://devdocs.io
